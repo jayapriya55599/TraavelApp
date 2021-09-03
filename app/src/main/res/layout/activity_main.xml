@@ -26,7 +26,7 @@
 
         app:layout_constraintBottom_toBottomOf="parent"
         app:itemIconTint="@color/tab_item"
-        app:itemTextColor="@color/tab_item"
+        app:itemTextColor="@color/black"
 
 
         app:menu="@menu/menu2">
