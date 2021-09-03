@@ -317,18 +317,18 @@
 
 
                         android:layout_width="match_parent"
-                        android:layout_height="255dp"
+                        android:layout_height="238dp"
 
                         >
 
                         <LinearLayout
                             android:layout_width="match_parent"
-                            android:layout_height="250dp"
+                            android:layout_height="237dp"
                             android:background="@drawable/clayoutshape2"
                             android:orientation="vertical">
 
                             <com.google.android.material.imageview.ShapeableImageView
-                                android:id="@+id/imageView8"
+                                android:id="@+id/imageIndia"
                                 android:layout_width="match_parent"
                                 android:layout_height="200dp"
                                 android:layout_marginLeft="10dp"
@@ -341,17 +341,16 @@
 
                             </com.google.android.material.imageview.ShapeableImageView>
 
-                            <Button
+                            <TextView
 
-                                android:id="@+id/india_btn"
+                                android:id="@+id/india_TextView"
                                 android:layout_width="match_parent"
-                                android:layout_height="37dp"
-                                android:backgroundTint="#ffffff"
+                                android:layout_height="27dp"
                                 android:gravity="center"
                                 android:text="India"
                                 android:textColor="@color/black">
 
-                            </Button>
+                            </TextView>
 
 
                         </LinearLayout>
@@ -363,13 +362,13 @@
 
 
                         android:layout_width="match_parent"
-                        android:layout_height="161dp"
+                        android:layout_height="145dp"
 
                         >
 
                         <LinearLayout
                             android:layout_width="match_parent"
-                            android:layout_height="155dp"
+                            android:layout_height="142dp"
                             android:background="@drawable/clayoutshape2"
                             android:orientation="vertical">
 
@@ -387,16 +386,16 @@
 
                             </com.google.android.material.imageview.ShapeableImageView>
 
-                            <Button
+                            <TextView
 
                                 android:layout_width="match_parent"
-                                android:layout_height="37dp"
+                                android:layout_height="27dp"
                                 android:backgroundTint="#ffffff"
                                 android:gravity="center"
                                 android:text="Paris"
                                 android:textColor="@color/black">
 
-                            </Button>
+                            </TextView>
 
 
                         </LinearLayout>
@@ -432,16 +431,16 @@
 
                             </com.google.android.material.imageview.ShapeableImageView>
 
-                            <Button
+                            <TextView
 
                                 android:layout_width="match_parent"
-                                android:layout_height="37dp"
+                                android:layout_height="27dp"
                                 android:backgroundTint="#ffffff"
                                 android:gravity="center"
                                 android:text="Bali"
                                 android:textColor="@color/black">
 
-                            </Button>
+                            </TextView>
 
 
                         </LinearLayout>
@@ -461,13 +460,13 @@
 
 
                         android:layout_width="match_parent"
-                        android:layout_height="161dp"
+                        android:layout_height="145dp"
 
                         >
 
                         <LinearLayout
                             android:layout_width="match_parent"
-                            android:layout_height="155dp"
+                            android:layout_height="142dp"
                             android:background="@drawable/clayoutshape2"
                             android:orientation="vertical">
 
@@ -486,16 +485,16 @@
 
                             </com.google.android.material.imageview.ShapeableImageView>
 
-                            <Button
+                            <TextView
 
                                 android:layout_width="match_parent"
-                                android:layout_height="37dp"
+                                android:layout_height="27dp"
                                 android:backgroundTint="#ffffff"
                                 android:gravity="center"
                                 android:text="Tokyo"
                                 android:textColor="@color/black">
 
-                            </Button>
+                            </TextView>
 
 
                         </LinearLayout>
@@ -507,13 +506,13 @@
 
 
                         android:layout_width="match_parent"
-                        android:layout_height="255dp"
+                        android:layout_height="240dp"
 
                         >
 
                         <LinearLayout
                             android:layout_width="match_parent"
-                            android:layout_height="250dp"
+                            android:layout_height="237dp"
                             android:background="@drawable/clayoutshape2"
                             android:orientation="vertical">
 
@@ -532,16 +531,16 @@
 
                             </com.google.android.material.imageview.ShapeableImageView>
 
-                            <Button
+                            <TextView
 
                                 android:layout_width="match_parent"
-                                android:layout_height="37dp"
+                                android:layout_height="27dp"
                                 android:backgroundTint="#ffffff"
                                 android:gravity="center"
                                 android:text="Hawaii"
                                 android:textColor="@color/black">
 
-                            </Button>
+                            </TextView>
 
 
                         </LinearLayout>
@@ -578,16 +577,16 @@
 
                             </com.google.android.material.imageview.ShapeableImageView>
 
-                            <Button
+                            <TextView
 
                                 android:layout_width="match_parent"
-                                android:layout_height="37dp"
+                                android:layout_height="27dp"
                                 android:backgroundTint="#ffffff"
                                 android:gravity="center"
                                 android:text="New York"
                                 android:textColor="@color/black">
 
-                            </Button>
+                            </TextView>
 
 
                         </LinearLayout>
