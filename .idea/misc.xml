@@ -10,13 +10,17 @@
         <entry key="..\:/Users/hp/TravelApp/TravelAppLayout/app/src/main/res/drawable/linear_space_button.xml" value="0.15" />
         <entry key="..\:/Users/hp/TravelApp/TravelAppLayout/app/src/main/res/drawable/price_button_shape.xml" value="0.11574074074074074" />
         <entry key="..\:/Users/hp/TravelApp/TravelAppLayout/app/src/main/res/drawable/slide_shape_layout.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/hp/TravelApp/TravelAppLayout/app/src/main/res/drawable/user_activity_bg.xml" value="0.11574074074074074" />
+        <entry key="..\:/Users/hp/TravelApp/TravelAppLayout/app/src/main/res/drawable/user_activity_price_cl.xml" value="0.11574074074074074" />
         <entry key="..\:/Users/hp/TravelApp/TravelAppLayout/app/src/main/res/layout/activity_activity2_india.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/hp/TravelApp/TravelAppLayout/app/src/main/res/layout/activity_india.xml" value="0.8" />
-        <entry key="..\:/Users/hp/TravelApp/TravelAppLayout/app/src/main/res/layout/activity_main.xml" value="0.152" />
+        <entry key="..\:/Users/hp/TravelApp/TravelAppLayout/app/src/main/res/layout/activity_india.xml" value="0.43766816143497755" />
+        <entry key="..\:/Users/hp/TravelApp/TravelAppLayout/app/src/main/res/layout/activity_main.xml" value="0.30886075949367087" />
+        <entry key="..\:/Users/hp/TravelApp/TravelAppLayout/app/src/main/res/layout/activity_user.xml" value="0.4" />
         <entry key="..\:/Users/hp/TravelApp/TravelAppLayout/app/src/main/res/layout/fragment_home.xml" value="0.264" />
         <entry key="..\:/Users/hp/TravelApp/TravelAppLayout/app/src/main/res/layout/fragment_my_order.xml" value="0.1" />
         <entry key="..\:/Users/hp/TravelApp/TravelAppLayout/app/src/main/res/layout/fragment_reward.xml" value="0.1" />
         <entry key="..\:/Users/hp/TravelApp/TravelAppLayout/app/src/main/res/layout/fragment_user.xml" value="0.1" />
+        <entry key="..\:/Users/hp/TravelApp/TravelAppLayout/app/src/main/res/layout/payment_method_card.xml" value="0.12360688956433637" />
         <entry key="..\:/Users/hp/TravelApp/TravelAppLayout/app/src/main/res/layout/second_srn_card.xml" value="0.536" />
         <entry key="..\:/Users/hp/TravelApp/TravelAppLayout/app/src/main/res/menu/menu2.xml" value="0.1" />
         <entry key="..\:/Users/hp/TravelApp/TravelAppLayout/app/src/main/res/menu/menuslide.xml" value="0.21296296296296297" />

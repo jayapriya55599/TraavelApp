@@ -1,5 +1,6 @@
 package com.example.demolayout;
 
+import android.content.Intent;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -81,6 +82,14 @@ public class SecondScreenCardAdapter extends RecyclerView.Adapter<SecondScreenCa
             totalTime=itemView.findViewById(R.id.hrTextView);
             startTime=itemView.findViewById(R.id.srtTime);
             endTime=itemView.findViewById(R.id.ArrTime);
+
+            priceButton.setOnClickListener(new View.OnClickListener() {
+                @Override
+                public void onClick(View view) {
+                    itemView.getContext().startActivity(new Intent(itemView.getContext(), UserActivity.class));
+
+                }
+            });
         }
     }
 

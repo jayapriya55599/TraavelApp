@@ -19,7 +19,7 @@ import android.widget.ImageView;
 public class HomeFragment extends Fragment {
 
 Button to_second_activity;
-ImageView img_india;
+ImageView img_Tokyo;
 
     // TODO: Rename parameter arguments, choose names that match
     // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
@@ -71,8 +71,8 @@ ImageView img_india;
         // Inflate the layout for this fragment
 
         //Button to move to next activity
-        img_india=(ImageView) v.findViewById(R.id.imageIndia);
-        img_india.setOnClickListener(new View.OnClickListener() {
+        img_Tokyo=(ImageView) v.findViewById(R.id.imageTokyo);
+        img_Tokyo.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 Intent i = new Intent(getActivity(),IndiaActivity.class);
